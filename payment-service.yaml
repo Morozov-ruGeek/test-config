@@ -1,7 +1,7 @@
     spring:
         datasource:
             driverClassName: org.postgresql.Driver
-            url: jdbc:postgresql://payment-db:5432/payment-db
-            jdbc-url: jdbc:postgresql://payment-db:5432/payment-db
+            url: jdbc:postgresql://payment-db:5532/payment-db
+            jdbc-url: jdbc:postgresql://payment-db:5532/payment-db
             username: postgres
             password: postgres
